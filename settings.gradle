@@ -17,5 +17,5 @@ buildscript {
     }
 }
 
-rootProject.name = 'ExampleMod'
+rootProject.name = 'Exotica'
 

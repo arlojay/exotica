@@ -4,22 +4,22 @@
   "id": "${mod_id}",
   "version": "${mod_version}",
   "description": "${mod_desc}.",
-  "authors": [ "YOU :D" ],
+  "authors": [ "arlojay" ],
   "meta": {
     "icon": "${mod_id}:icons/icon.png"
   },
   "entrypoints": {
     "postInit": [
-      "org.example.exmod.ExampleModPostinit"
+      "com.arlojay.exotica.ExoticaPostinit"
     ],
     "init": [
-      "org.example.exmod.ExampleMod"
+      "com.arlojay.exotica.ExoticaMod"
     ],
     "preInit": [
-      "org.example.exmod.ExampleModPreinit"
+      "com.arlojay.exotica.ExoticaPreinit"
     ],
     "client-init": [
-      "org.example.exmod.ClientInitializer"
+      "com.arlojay.exotica.ClientInitializer"
     ]
   },
   "depends": {
