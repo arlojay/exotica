@@ -1,3 +1,6 @@
+# Archival Notice
+This project has never received any updates, and was made obsolete with a terrain change update in the base game.
+
 # Exotica
 An alternative terrain generator for [Cosmic Reach](https://finalforeach.itch.io/cosmic-reach) that attempts to create more exotic terrain (hence the name)
 
